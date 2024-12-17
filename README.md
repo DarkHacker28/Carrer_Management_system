@@ -94,7 +94,7 @@ Steps to Run the Project
 Clone the Repository
 
 
-git clone https://github.com/yourusername/Career-Management-System.git
+git clone https://github.com/DarkHacker28/Carrer_Management_system
 
 cd Career-Management-System
 
